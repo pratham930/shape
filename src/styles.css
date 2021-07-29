@@ -1,0 +1,14 @@
+.note {
+  background: white;
+  box-shadow: 0 2px 5px white;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  border-radius: 7px;
+  border-color: black;
+  float: left;
+}
+.note h2 {
+  font-size: 1.1em;
+  color: aquamarine;
+}
